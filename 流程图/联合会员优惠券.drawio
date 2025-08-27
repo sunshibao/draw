@@ -143,7 +143,7 @@
           <mxGeometry x="340" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="josDlDmpqx2x05p4uI3B-56" value="结束" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="1660" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="1570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="josDlDmpqx2x05p4uI3B-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="0SNS6dj9dEOXhOJafOYS-11" target="josDlDmpqx2x05p4uI3B-41" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -195,13 +195,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0SNS6dj9dEOXhOJafOYS-26" value="累计会员时间&lt;div&gt;从当前时间累加&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1500" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="1470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0SNS6dj9dEOXhOJafOYS-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0SNS6dj9dEOXhOJafOYS-28" target="josDlDmpqx2x05p4uI3B-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0SNS6dj9dEOXhOJafOYS-28" value="累计会员时间&lt;div&gt;从会员过期时间累加累加&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="665" y="1500" width="150" height="60" as="geometry" />
+          <mxGeometry x="665" y="1470" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
